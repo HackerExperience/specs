@@ -11,4 +11,5 @@
    * [Overview](game_mechanics/overview.md)
    * [Processes](game_mechanics/processes.md)
    * [Logs](game_mechanics/logs.md)
+   * Connections
 
