@@ -37,7 +37,7 @@ A process might allocate unused resources dynamically, according to the total of
 
 #### Variadic
 
-
+A variadic process combines both static and dynamic allocations by reserving a fixed amount of resources (static) and allowing the player to increase the amount of resources being used (dynamic), thus decreasing the total time required to complete the task.
 
 ### Resource Management
 
