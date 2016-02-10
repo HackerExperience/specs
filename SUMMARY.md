@@ -14,5 +14,5 @@
    * [Connections](game_mechanics/connections.md)
    * [World Map](game_mechanics/world_map.md)
    * [Software](game_mechanics/software.md)
-   * Missions
+   * [Missions](game_mechanics/missions.md)
 
