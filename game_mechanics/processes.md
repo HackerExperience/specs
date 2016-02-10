@@ -1,2 +1,44 @@
 # Processes
 
+Processes, also known as tasks, are actions performed by you that need to be calculated/processed somehow, and therefore some time will take until the process is completed. It can take from as little as 4 seconds to days or weeks, depending of the action you are performing and others factors.
+
+According to the action being performed, each process follows one of the three scheduling algorithms described below. The way resources are allocated also differs from process to process.
+
+### Scheduling Algorithms
+
+#### Transient
+
+The process has a clear goal and will reach an end after sometime, causing a side-effect.
+
+Example: Deleting a file.
+
+#### Persistent
+
+The process runs forever and won't cause any side-effects. It's usually a secondary factor of other actions. 
+
+Example: Firewall passively protecting from connections.
+
+#### Iterative
+
+The process runs forever, causing side-effects from time to time. The time required to cause each side-effect usually increases exponentially. 
+
+Example: Recovering a specific log (which might have received several prior editions)
+
+
+### Resource Allocation
+
+#### Static
+
+The process will always use the same amount of resources. Those resources are reserved by the process.
+
+#### Dynamic
+
+A process might allocate unused resources dynamically, according to the total of  resources available and process priority.
+
+#### Variadic
+
+
+
+### Resource Management
+
+#### Process Priority
