@@ -10,5 +10,5 @@
 * [Game Mechanics](game_mechanics/)
    * [Overview](game_mechanics/overview.md)
    * [Processes](game_mechanics/processes.md)
-   * Logs
+   * [Logs](game_mechanics/logs.md)
 
