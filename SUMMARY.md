@@ -12,5 +12,5 @@
    * [Processes](game_mechanics/processes.md)
    * [Logs](game_mechanics/logs.md)
    * [Connections](game_mechanics/connections.md)
-   * World Map
+   * [World Map](game_mechanics/world_map.md)
 
