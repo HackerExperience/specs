@@ -7,7 +7,6 @@
    * [Objectives](hackerexperience2/objectives.md)
    * [Contributing](hackerexperience2/contributing.md)
 * [Notes](notes.md)
-* [Overview](overview.md)
 * [Game Mechanics](game_mechanics/)
-   * [fasdf](game_mechanics/overview.md)
+   * [Overview](game_mechanics/overview.md)
 
