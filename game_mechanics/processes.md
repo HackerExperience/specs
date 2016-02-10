@@ -41,7 +41,7 @@ A variadic process combines both static and dynamic allocations by reserving a f
 
 ### Work Units
 
-Every process need some time to cause a side-effect. The required time is calculated through work units. Usually, all processes of same type, under the same conditions and environment, will require the same amount of work units. The difference lies on the user hardware, which can compute more or less work units per second. This is analogous to hardware clock rate.
+Every process need some time to cause a side-effect. The required time is calculated through work units. Usually, all processes of same type, under the same conditions and environment, will require the same amount of work units to be processed. The difference lies on the user hardware, which can compute more or less work units per second. This is analogous to hardware clock rate.
 
 ### Resource Management
 
