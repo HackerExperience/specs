@@ -9,5 +9,5 @@
 * [Notes](notes.md)
 * [Overview](overview.md)
 * [Game Mechanics](game_mechanics/)
-   * fasdf
+   * [fasdf](game_mechanics/overview.md)
 
