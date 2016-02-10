@@ -9,5 +9,5 @@
 * [Notes](notes.md)
 * [Game Mechanics](game_mechanics/)
    * [Overview](game_mechanics/overview.md)
-   * Processes
+   * [Processes](game_mechanics/processes.md)
 
