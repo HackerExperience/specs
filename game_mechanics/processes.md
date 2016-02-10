@@ -39,6 +39,17 @@ A process might allocate unused resources dynamically, according to the total of
 
 A variadic process combines both static and dynamic allocations by reserving a fixed amount of resources (static) and allowing the player to increase the amount of resources being used (dynamic), thus decreasing the total time required to complete the task.
 
+### Work Units
+
+Every process need some time to cause a side-effect. The required time is calculated through work units. Usually, all processes of same type, under the same conditions and environment, will require the same amount of work units. The difference lies on the user hardware, which can compute more or less work units per second. This is analogous to hardware clock speed.
+
 ### Resource Management
 
 #### Process Priority
+
+A process can have any of the following priorities: Lowest, Low, Normal, High, Highest. Changing the priority of a process is not possible for statically-allocated processes.
+
+#### Pausing/Resuming
+
+The player can pause and resume any process, at any time, without losing the computed work units. Pausing a process will free any reserved resources.
+
