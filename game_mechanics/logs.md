@@ -18,7 +18,7 @@ Any modification to a software can be undone with a Log Recover. The Software Ve
 
 Technically, a Log Recover 1.0 can undo *any* change made by *any* Log Forger. The catch, however, is that it may take several hours depending on the version delta. During that time, the person recovering the log is exposing herself by keeping an open connection.
 
-The attacker can also hide a log using Hider. This can be undone by using Seeker;
+The attacker can also hide a log using Hider. This can be undone by using Seeker.
 
 Hiding a log entry adds a layer of protection against possible recovery, since someone else would have to first unhide the log, and then recover it.[TODO: does order matter?]
 
