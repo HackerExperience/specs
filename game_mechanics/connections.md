@@ -34,7 +34,7 @@ FTP connections are identified by port `21`
 
 ### X11
 
-The X11 connection exchanges graphical data between two servers. It allows a client to see the Desktop (Graphical User Interface) from the server, exactly as it is seem by the remote server. This includes open applications[HEPNOTE:note-privacy] and potentially sensitive information.
+The X11 connection exchanges graphical data between two servers. It allows a client to see the Desktop (Graphical User Interface) from the server, exactly as it is seem by the remote server. This includes open applications[HEPNOTE:note-privacy-x11] and potentially sensitive information.
 
 A X11 connection starts when the client is using a Desktop/Web interface and is connected through an SSH connection. It is terminated at the end of the SSH session. 
 
@@ -76,6 +76,10 @@ DDoS connections are identified by port `666`.
 
 ### Adware
 
+### Torrent
+
+Torrent connections are identified by port `6881`.
+
 ### Wire Transfer
 
 A `Wire Transfer` connection happens between banks, allowing them to move money from one bank to another.
@@ -86,14 +90,18 @@ Wire Transfer connections are identified by port `TODO`.
 
 ### BTC
 
-8333
+BTC connections are identified by port `8333`.
 
 ### DNS
 
+DNS connections are identified by port `53`.
+
 ### BGP
+
+BGP connections are identified by port `179`.
 
 ## Packets
 
 ## Notes
 
-[HEPNOTE:note-privacy]: Applications that include real user personal data, or chat information, are not replicated. Examples include Settings, Billing, Chat and Email windows.
+[HEPNOTE:note-privacy-x11]: Applications that include real user personal data, or chat information, are not replicated. Examples include Settings, Billing, Chat and Email windows.
