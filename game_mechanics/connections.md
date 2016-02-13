@@ -38,11 +38,21 @@ X11 connections are identified by port `6000`.
 
 ### HTTP
 
+The `Hypertext Transfer Protocol (HTTP)` connection sends website data from the server to the client. 
 
+It is insecure in the sense that all data transferred from the server to the client can be read by potential hackers eavesdropping the network.
+
+An HTTP connection starts when the client accesses a remote website and terminates a few seconds later, when the request has been fulfilled. It is identified by port `80`.
 
 ### HTTPS
 
+The `HTTP Secure (HTTPS)` connection is similar to `HTTP`, since it allows clients to request website data, but it encrypts all network packets exchanged between them.
+
+It is identified by port `443`.
+
 ### Tor
+
+
 
 ### CRC
 
