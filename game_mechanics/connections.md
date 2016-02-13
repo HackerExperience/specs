@@ -104,7 +104,11 @@ BGP connections are identified by port `179`.
 
 ## Packets
 
-Every data flowing from servers over the Internet is presented as Network Packets. Those packets contain meaningful information about the performed action, including connection type, source and destination ports, involved IP addresses 
+Every data flowing from servers over the Internet is presented as Network Packets. Those packets contain meaningful information about the performed action, including connection type, source and destination ports, involved IP addresses and any related data.
+
+Some connections send encrypted packets by default, others don't. It is possible to encrypt an unsafe connection by using Encrypt.
+
+Packets are generated in real time and can be eavesdropped with Fireshark. Unencrypted packets can contain sensitive data in plain-text, proving valuable to an attack.
 
 ## Notes
 
