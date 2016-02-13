@@ -68,6 +68,12 @@ HTTPS connections are identified by port `443`.
 
 Tor connections are identified by port `9001`.
 
+### Proxy
+
+The `Proxy` connection forwards the packets from the source to a third server. It is specially useful when an attacker wishes to hide his real IP address, or to complicate the action of tracing him down.
+
+Proxy connections are identified by port `1080`.
+
 ### CRC
 
 The `Cracker (CRC)` connection is established when an attacker is attempting a brute-force attack over a remote server.
@@ -107,12 +113,6 @@ DNS connections are identified by port `53`.
 ### BGP
 
 BGP connections are identified by port `179`.
-
-### Proxy
-
-The `Proxy` connection forwards the packets from the source to a third server. It is specially useful when an attacker wishes to hide his real IP address, or to complicate the action of tracing him down.
-
-Proxy connections are identified by port `1080`.
 
 ## Access Point
 
