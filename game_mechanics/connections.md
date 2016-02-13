@@ -102,6 +102,8 @@ BGP connections are identified by port `179`.
 
 ### Bounce
 
+Bounce connections are identified by port `1080`.
+
 ## Packets
 
 Every data flowing from servers over the Internet is presented as Network Packets. Those packets contain meaningful information about the performed action, including connection type, source and destination ports, involved IP addresses and any related data.
