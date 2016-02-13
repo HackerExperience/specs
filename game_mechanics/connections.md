@@ -52,8 +52,6 @@ It is identified by port `443`.
 
 ### Tor
 
-
-
 ### CRC
 
 ### DDoS
