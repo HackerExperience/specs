@@ -2,5 +2,13 @@
 
 ## Definition
 
-A connection is an object that links two servers and is of the type `SIP:SPORT/DIP:DPORT`, where `S` stands for `source` and `D` for `destination`.
+A connection is an object that links two servers and can be defined as  `SOURCE_IP:SOURCE_PORT/DESTINATION_IP:DESTINATION_PORT/CONNECTION_TYPE`.
 
+Any remote interaction or communication between two or more servers relies on connections.
+
+## Types
+
+The connection type identifies the purpose of a given connection.
+
+
+Usually, `DESTINATION_PORT` alone suffices to identify the type of a connection, but some types allows for multiple or random destination ports.
