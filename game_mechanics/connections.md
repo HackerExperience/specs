@@ -8,6 +8,14 @@ Any remote interaction or communication between two or more servers relies on co
 
 It is possible, and actually common, to multiple connections coexist among two servers.
 
+## Packets
+
+Every data flowing from servers over the Internet is presented as Network Packets. Those packets contain meaningful information about the performed action, including connection type, source and destination ports, involved IP addresses and any related data.
+
+Some connections send encrypted packets by default, others don't. It is possible to encrypt an unsafe connection by using Encrypt.
+
+Packets are generated in real time and can be eavesdropped with Fireshark. Unencrypted packets can contain sensitive data in plain-text, proving valuable to an attacker.
+
 ## Types
 
 The connection type identifies the purpose of a given connection.
@@ -106,13 +114,9 @@ The `Proxy` connection forwards the packets from the source to a third server. I
 
 Proxy connections are identified by port `1080`.
 
-## Packets
+## Access Point
 
-Every data flowing from servers over the Internet is presented as Network Packets. Those packets contain meaningful information about the performed action, including connection type, source and destination ports, involved IP addresses and any related data.
-
-Some connections send encrypted packets by default, others don't. It is possible to encrypt an unsafe connection by using Encrypt.
-
-Packets are generated in real time and can be eavesdropped with Fireshark. Unencrypted packets can contain sensitive data in plain-text, proving valuable to an attacker.
+## Gateway
 
 ## Notes
 
