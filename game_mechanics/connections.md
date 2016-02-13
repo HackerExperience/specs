@@ -10,7 +10,7 @@ It is possible, and actually common, to multiple connections coexist among two s
 
 ## Packets
 
-Every data flowing from servers over the Internet is presented as Network Packets. Those packets contain meaningful information about the performed action, including connection type, ports, IP addresses and related data.
+Every data flowing from servers over the Internet is presented as Network Packets. Those packets contain meaningful information about the performed action, including connection type, ports, IP addresses and action-specific data.
 
 Some connections send encrypted packets by default, others don't. It is possible to encrypt an unsafe connection by using Encrypt.
 
