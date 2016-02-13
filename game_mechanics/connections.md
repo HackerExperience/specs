@@ -34,7 +34,7 @@ The X11 connection exchanges graphical data between two servers. It allows a cli
 
 A X11 connection starts when the client is using a Desktop/Web interface and is connected through an SSH connection. It is terminated at the end of the SSH session. 
 
-X11 connections are identified by port `6000` for the first client, `6001` for the second one and so on.
+X11 connections are identified by port `6000`.
 
 ### HTTP
 
