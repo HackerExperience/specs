@@ -30,7 +30,11 @@ An FTP connection will exist for the duration of the file transfer, being automa
 
 ### X11
 
+The X11 connection exchanges graphical data between two servers. It allows a client to see the Desktop (Graphical User Interface) from the server, exactly as it is seem by the remote server. This includes open applications[HEPNOTE:note-privacy] and potentially sensitive information.
 
+A X11 connection starts when the client is using a Desktop/Web interface and is connected through an SSH connection. It is terminated at the end of the SSH session. 
+
+X11 connections are identified by port `6000` for the first client, `6001` for the second one and so on.
 
 ### HTTP
 
@@ -51,3 +55,7 @@ An FTP connection will exist for the duration of the file transfer, being automa
 ### BGP
 
 ## Packets
+
+## Notes
+
+[HEPNOTE:note-privacy]: Applications that include real user personal data, or chat information, are not replicated. Examples include Settings, Billing, Chat and Email windows.
