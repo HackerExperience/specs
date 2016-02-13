@@ -60,7 +60,17 @@ It is identified by port `443`.
 
 ### Adware
 
-### Wire
+### Wire Transfer
+
+A `Wire Transfer` connection happens between banks, allowing them to move money from one bank to another.
+
+A Wire Transfer starts when someone starts a money transfer operation. This connection will be terminated when the transfer is done. The time to transfer the money depends mainly on the amount being transferred.
+
+It is identified by port `TODO`.
+
+### BTC
+
+8333
 
 ### DNS
 
