@@ -30,7 +30,7 @@ A `File Transfer Protocol (FTP)` connection is created whenever a user downloads
 
 An FTP connection will exist for the duration of the file transfer, being automatically deleted when the transfer completes. 
 
-It is identified by port `21`
+FTP connections are identified by port `21`
 
 ### X11
 
@@ -46,7 +46,9 @@ The `Hypertext Transfer Protocol (HTTP)` connection sends website data from the 
 
 It is insecure in the sense that all data transferred from the server to the client can be read by potential hackers eavesdropping the network.
 
-An HTTP connection starts when the client accesses a remote website and terminates a few seconds later, when the request has been fulfilled. It is identified by port `80`.
+An HTTP connection starts when the client accesses a remote website and terminates a few seconds later, when the request has been fulfilled. 
+
+HTTP connections are identified by port `80`.
 
 ### HTTPS
 
