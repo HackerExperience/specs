@@ -2,7 +2,7 @@
 
 ## Definition
 
-A connection is an object that links two servers, allowing them to exchange data. It can be defined as  `SOURCE_IP:SOURCE_PORT<>DESTINATION_IP:DESTINATION_PORT`.
+A connection is an object that links two servers, allowing them to exchange data. It can be defined as  `SOURCE_IP:SOURCE_PORT>DESTINATION_IP:DESTINATION_PORT|CONNECTION_TYPE`.
 
 Any remote interaction or communication between two or more servers relies on connections.
 
