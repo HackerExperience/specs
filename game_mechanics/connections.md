@@ -108,7 +108,7 @@ Every data flowing from servers over the Internet is presented as Network Packet
 
 Some connections send encrypted packets by default, others don't. It is possible to encrypt an unsafe connection by using Encrypt.
 
-Packets are generated in real time and can be eavesdropped with Fireshark. Unencrypted packets can contain sensitive data in plain-text, proving valuable to an attack.
+Packets are generated in real time and can be eavesdropped with Fireshark. Unencrypted packets can contain sensitive data in plain-text, proving valuable to an attacker.
 
 ## Notes
 
