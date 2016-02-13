@@ -64,13 +64,13 @@ Tor connections are identified by port `9001`.
 
 The `Cracker (CRC)` connection is established when an attacker is attempting a brute-force attack over a remote server.
 
-This is a one-way connection, since the attacker is sending multiple simultaneous requests and the victim is dropping all of them.
-
 The CRC connection terminates right after the password is obtained.
 
 CRC connections are identified by port `TODO`.
 
 ### DDoS
+
+The `DDoS` connection is a special type that identifies automatic attacks coming from botnets.
 
 DDoS connections are identified by port `666`.
 
