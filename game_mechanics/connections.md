@@ -20,13 +20,17 @@ Below is a breakdown of the connection types.
 
 A `Secure Shell (SSH)` connection is opened when a user successfully logins to a remote computer. It allows the user to retrieve all information he has access to. If the user has `root` access, it means he has access to all data and software inside that server.
 
-An SSH connection will exist for the duration of the remote access and is identified by the port `22`.
+An SSH connection will exist for the duration of the remote access.
+
+SSH connections are identified by port `22`.
 
 ### FTP
 
 A `File Transfer Protocol (FTP)` connection is created whenever a user downloads or uploads a software to a remote server.
 
-An FTP connection will exist for the duration of the file transfer, being automatically deleted when the transfer completes. It is identified by port `21`
+An FTP connection will exist for the duration of the file transfer, being automatically deleted when the transfer completes. 
+
+It is identified by port `21`
 
 ### X11
 
@@ -48,13 +52,25 @@ An HTTP connection starts when the client accesses a remote website and terminat
 
 The `HTTP Secure (HTTPS)` connection is similar to `HTTP`, since it allows clients to request website data, but it encrypts all network packets exchanged between them.
 
-It is identified by port `443`.
+HTTPS connections are identified by port `443`.
 
 ### Tor
 
+Tor connections are identified by port `9001`.
+
 ### CRC
 
+The `Cracker (CRC)` connection is established when an attacker is attempting a brute-force attack over a remote server.
+
+This is a one-way connection, since the attacker is sending multiple simultaneous requests and the victim is dropping all of them.
+
+The CRC connection terminates right after the password is obtained.
+
+CRC connections are identified by port `TODO`.
+
 ### DDoS
+
+DDoS connections are identified by port `666`.
 
 ### Adware
 
@@ -64,7 +80,7 @@ A `Wire Transfer` connection happens between banks, allowing them to move money 
 
 A Wire Transfer starts when someone starts a money transfer operation. This connection will be terminated when the transfer is done. The time to transfer the money depends mainly on the amount being transferred.
 
-It is identified by port `TODO`.
+Wire Transfer connections are identified by port `TODO`.
 
 ### BTC
 
