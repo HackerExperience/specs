@@ -18,13 +18,13 @@ Below is a breakdown of the connection types.
 
 ### SSH
 
-A Secure Shell (SSH) connection is opened when a user successfully logins to a remote computer. It allows the user to retrieve all information he has access to. If the user has `root` access, it means he has access to all data and software inside that server.
+A `Secure Shell (SSH)` connection is opened when a user successfully logins to a remote computer. It allows the user to retrieve all information he has access to. If the user has `root` access, it means he has access to all data and software inside that server.
 
 An SSH connection will exist for the duration of the remote access and is identified by the port `22`.
 
 ### FTP
 
-A File Transfer Protocol (FTP) connection is created whenever a user downloads or uploads a software to a remote server.
+A `File Transfer Protocol (FTP)` connection is created whenever a user downloads or uploads a software to a remote server.
 
 An FTP connection will exist for the duration of the file transfer, being automatically deleted when the transfer completes. It is identified by port `21`
 
@@ -37,6 +37,8 @@ A X11 connection starts when the client is using a Desktop/Web interface and is 
 X11 connections are identified by port `6000` for the first client, `6001` for the second one and so on.
 
 ### HTTP
+
+
 
 ### HTTPS
 
