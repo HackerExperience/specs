@@ -104,6 +104,8 @@ Wire Transfer connections are identified by port `TODO`.
 
 ### BTC
 
+A `Bitcoin (BTC)` connection happens when a transaction block is being verified. The time to solve that block depends on how much money is being moved.
+
 BTC connections are identified by port `8333`.
 
 ### DNS
