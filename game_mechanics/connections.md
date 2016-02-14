@@ -116,10 +116,6 @@ DNS connections are identified by port `53`.
 
 BGP connections are identified by port `179`.
 
-## Access Point
-
-## Gateway
-
 ## Notes
 
 [HEPNOTE:note-privacy-x11]: Applications that include real user personal data, or chat information, are not replicated. Examples include Settings, Billing, Chat and Email windows.
