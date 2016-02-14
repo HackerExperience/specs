@@ -14,3 +14,4 @@ Having a grid with height of `0.005°` latitude, width of `0.005°` longitude ea
 
 That said, we'll apply a dynamic density distribution over the game, with the intent of better handling highly crowded areas. The algorithm will shrink, or expand those grid squares according to how many players we have in that specific region.
 
+## 
