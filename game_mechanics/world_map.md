@@ -16,6 +16,14 @@ That said, we'll apply a dynamic density distribution over the game, with the in
 
 ## Influence
 
-Influence is the defining factor of power, or respect, of the game. It tells how powerful a hacker *currently* is.
+Influence is the defining factor of power, or respect, of the game. It tells how powerful a hacker *currently* is. 
+
+Any remote action taken by the hacker is translated into influence. The attacker gains influence where his access-point (origin) is located, as well as where his gateway (target) is.
 
 ### Spread
+
+The spread of influence is analogous to sand falling to the floor and forming a pile. When an action that deserves influence is completed, a relative amount of influence will "fall" into the origin and target of the action. As it falls, influence is spread to all sides, being greater on the center, and slowly fading away as it goes further.
+
+The spread speed is done in turns of 
+
+Influence also accumulates on the center, creating a notion of z-axis influence.
