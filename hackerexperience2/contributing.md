@@ -158,5 +158,7 @@ Stuff that doesn't require specific knowledge (so **anyone** can help).
 
 - Translate the game.
 - Suggest new features.
-- Spread the word
-- Donate / pre-order
+- Donate / pre-order.
+- Fix grammatical errors and typos.
+- Spread the word.
+- Bring more contributors.
