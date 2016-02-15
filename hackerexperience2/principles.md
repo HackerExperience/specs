@@ -48,6 +48,3 @@ Examples on how the layman can contribute to HE2:
 - Improving game design and specifications.
 - Submitting ideas to be discussed.
 - Spreading the word.
-
-
-# Notes
