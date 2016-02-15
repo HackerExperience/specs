@@ -31,7 +31,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 - Now, a quick explanation on how Phabricator works.  
     - Phabricator is an all-in-one (AIO) place to develop, discuss and review HE2. All you need is there.
     - Phabricator is made of many different applications, each with its own purpose. Some of them are:
-        - **[Maniphest]()**: the place where you can create a **task**, or bug report, to be analysed and discussed.
+        - **[Maniphest](https://dev.hackerexperience.com/maniphest/)**: the place where you can create a **task**, or bug report, to be analysed and discussed.
         - **[Differential](https://dev.hackerexperience.com/differential/)** is the code review utility, where developers will discuss and accept/deny changes to HE2 code.
         - **[Diffusion](https://dev.hackerexperience.com/diffusion/)**, where all repositories related to, or owned by HE2 are. You can browse their code there.
         - **[Conpherence](https://dev.hackerexperience.com/conpherence/** is a chat utility, where you can join private or public groups and talk about anything. Keep in mind that Conpherence is not the place for important discussions, they belong to Maniphest. It's a nice place to introduce yourself and get help from other contributors.
