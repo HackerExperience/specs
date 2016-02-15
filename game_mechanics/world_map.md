@@ -4,7 +4,7 @@
 
 The World Map presents the player important data regarding the game. It contains several elements like fixed or mobile servers, missions, buildings and general points of interest.
 
-It is notably the main way a player has to interact with the virtual world that surrounds him.
+It is notably the main way a player has to interact with the virtual world that surrounds him. It also has become the most important aspect of the game.
 
 ## Distribution
 
@@ -29,3 +29,4 @@ The spread speed is defined in turns of one hour. The next turn right after the 
 Influence also accumulates on the center, creating a notion of z-axis influence.
 
 [TODO: Spread is actually much more complex than this. Explain better.]
+
