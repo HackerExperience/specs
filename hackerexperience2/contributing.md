@@ -46,7 +46,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 
 ## 1 - Ask something
 
-Usually, you'll want to ask questions on [Ponder](https://dev.hackerexperience.com/ponder/), a Q&A phabricator application pretty much like StackOverflow or Quora. In some rare cases, however, a question needs proper discussion or review, so creating a task is the way to go. Below is a simple procedure to follow.
+Usually, you'll want to ask questions on [Ponder](https://dev.hackerexperience.com/ponder/), a Q&A phabricator application pretty much like StackOverflow or Quora. In some rare cases, however, a question needs proper discussion, so creating a task is the way to go. Below is a simple procedure to follow.
 
 - If it's something that needs proper discussion, review or approval, create a task [(see below)]().
 - If it's something personal, go to Conpherence.
