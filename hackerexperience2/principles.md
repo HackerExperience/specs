@@ -10,7 +10,7 @@ The most unique aspect of HE2 is, most certainly, its openness. We want to have 
 
 We believe that the player should have the **freedom** to run, copy, distribute, study, change and improve the software. This is the definition of *free software*. This means the community can fix bugs or glitches, create patches, add features, customize or study it.
 
-Our main objective is to create a software *for* our users, so Hacker Experience 2 is a free software<sup>[free-not-gratis]</sup>.
+Our main objective is to create a software *for* our users, so Hacker Experience 2 is a free software<sup>[HEPNOTE:free-not-gratis]</sup>.
 
 # Transparency
 
