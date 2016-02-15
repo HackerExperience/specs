@@ -39,26 +39,16 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 
 
 - Now we will guide you according to how you can/want to help.
+- Don't worry if you make a mistake, or ask on the wrong part of the site. No one will *bit* you :)
 
 
 # I want to...
-
-## Create a discussion, report a bug, request a feature:
-
-- Go to [Maniphest](ttps://dev.hackerexperience.com/maniphest/)
-- On the upper right corner, click *Create Task*. Select the type of task (Feature Request, Report a bug, ...). If you can't find a correct type, select [Custom Task](https://dev.hackerexperience.com/maniphest/task/edit/form/2/).
-- Enter your question.
-    - On *Title*, enter a meaningful and descriptive title.
-    - On *Description*, enter your report/discussion. Be the most descriptive and detailed you can be.
-    - (optional) Add projects related to the task. Start typing something related and see if Phabricator finds anything.
-    - You can ignore any other fields.
-    - Click on *Create New task*.
 
 ## Ask something
 
 Usually, you'll want to ask questions on Ponder, a Q&A phabricator application pretty much like StackOverflow or Quora. In some rare cases, however, a question needs proper discussion or review, so creating a task is the way to go. Below is a simple procedure to follow.
 
-- If it's something that needs proper discussion, review or approval, create a task (see 1).
+- If it's something that needs proper discussion, review or approval, create a task (see 2).
 - If it's something personal, go to Conpherence.
     - There, join the room most suitable for your question (use "General" if none fit).
     - Ask :)
@@ -68,6 +58,24 @@ Usually, you'll want to ask questions on Ponder, a Q&A phabricator application p
     - You can ignore "Answer Details". This is usually for self-answered questions.
     - (optional) Add projects related to the question. Start typing something related and see if Phabricator finds anything.
     - Click "Send" & wait for your answer. You can submit the question link on Conpherence for faster response.
+
+## Create a discussion, report a bug, request a feature:
+
+First, ask yourself: is what your are going to ask/report something that needs discussion, review and approval? If it is a simple or straightforward question, see [Ask Something]() below.
+
+Usually, bug reporting and requesting/suggesting a feature requires proper discussion, review and approval.
+
+
+In general, you'll want to use [Maniphest](https://dev.hackerexperience.com/maniphest/) to discuss anything related to the game. 
+
+- Go to [Maniphest](https://dev.hackerexperience.com/maniphest/)
+- On the upper right corner, click *Create Task*. Select the type of task (Feature Request, Report a bug, ...). If you can't find a correct type, select [Custom Task](https://dev.hackerexperience.com/maniphest/task/edit/form/2/).
+- Enter your question.
+    - On *Title*, enter a meaningful and descriptive title.
+    - On *Description*, enter your report/discussion. Be the most descriptive and detailed you can be.
+    - (optional) Add projects related to the task. Start typing something related and see if Phabricator finds anything.
+    - You can ignore any other fields.
+    - Click on *Create New task*.
 
 ## Clone a repository
 
