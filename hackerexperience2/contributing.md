@@ -59,7 +59,7 @@ Usually, you'll want to ask questions on [Ponder](https://dev.hackerexperience.c
     - (optional) Add projects related to the question. Start typing something related and see if Phabricator finds anything.
     - Click "Send" & wait for your answer.
 
-## Create a discussion, report a bug, request a feature:
+## Create a task, discussion, report a bug or request a feature:
 
 First, ask yourself: is what your are going to ask/report something that needs discussion, review and approval? If it is a simple or straightforward question, see [Ask Something]() above.
 
@@ -82,7 +82,7 @@ Usually, bug reporting and requesting/suggesting a feature requires proper discu
 
 ## Submit a change
 
-- First, make sure there is a task related to your change. If not, create one (see 1), describing your changes and why you did them.
+- First, make sure there is a task related to your change. If not, create one (see 2 - ), describing your changes and why you did them.
 
 ## Create a public project
 
