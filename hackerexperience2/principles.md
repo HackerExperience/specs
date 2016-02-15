@@ -2,7 +2,7 @@
 
 In order to build a platform truly designed for our players, the Hacker Experience brand and its parent company, Neoart Labs, share a number of principles.
 
-The following is a non-exhaustive list of them.
+Below is a non-exhaustive list of them.
 
 ## Openness
 
