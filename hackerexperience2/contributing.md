@@ -74,7 +74,20 @@ Usually, bug reporting and requesting/suggesting a feature requires proper discu
     - You can ignore any other fields.
     - Click on *Create New task* & wait for your answer.
 
-## 3 - Clone a repository
+## 3 - Help with stuff I'm good at
+
+That's great! At Phabricator, we tag all Tasks with corresponding projects, exactly to allow you to find very specific stuff.
+
+Want to find tasks related to Linux? Or Docker? Or Design/UI? Maybe Elm? No problem!
+
+- Go to [Active Projects](https://dev.hackerexperience.com/project/query/active/)
+    - See which ones interest you.
+    - Subscribe to them to receive in-phabricator updates.
+    - See open tasks on workboards for tasks in need of help.
+        - If the project does not have a workboard enabled, use the [Task Search](https://dev.hackerexperience.com/maniphest/query/advanced/) and add the project tag.
+
+
+## 4 - Clone a repository
 
 Cloning a repository is easy. First of all, you need to set up your cloning credentials. It's very straightforward.
 
@@ -86,12 +99,12 @@ If you have SSH Keys set up, using the Clone (SSH) option is faster. Otherwise, 
 - Copy the Clone URL of SSH or HTTPS. If you have both credentials set up, SSH is better.
 - On your terminal, type `git clone <url>` and that's it!
 
-## 4 - Submit a change
+## 5 - Submit a change
 
 - First, make sure there is a task related to your change. If not, create one (see 2), describing your changes and why you did them.
 - TODO: requires arc
 
-## 5 - Create a public project
+## 6 - Create a public project
 
 - Please create a task (see 1) asking about the project, its name and purpose. If approved, we will create the project and give you moderator access to the project.
 
