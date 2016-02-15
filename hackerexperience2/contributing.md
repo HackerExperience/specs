@@ -146,7 +146,7 @@ In many ways, even if you are not a developer. Let's go:
 
 ## English Speakers
 
-Our in-house team is based in Brazil and we are not native English speakers. This means that many of our texts, documentations, articles, tasks have grammar errors, typos, misspellings.
+Our in-house team is based in Brazil and we are not native English speakers. This means that many of our texts, documents, articles, tasks have grammar errors, typos, misspellings.
 
 
 
