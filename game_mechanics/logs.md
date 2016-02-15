@@ -1,6 +1,4 @@
-# Logs
-
-## Overview
+# Overview
 
 A log is a text entry containing details about an activity that happened on a server. Every recorded log is appended to a logfile.
 
@@ -8,7 +6,7 @@ A log entry can contain sensitive information, like someone's else IP address or
 
 In order to cover their actions, attackers usually delete their logs. However, a deeper dynamic may be achieved by forging logs, thus deceiving or misleading someone to a honeypot or a third-party server.
 
-## Tampering logs
+# Tampering logs
 
 Logs can be modified or deleted, but they can also be recovered!
 
@@ -22,7 +20,7 @@ The attacker can also hide a log using Hider. This can be undone by using Seeker
 
 Hiding a log entry adds a layer of protection against possible recovery, since someone else would have to first unhide the log, and then recover it.[TODO: does order matter?]
 
-## Log Uncertainty
+# Log Uncertainty
 
 An interesting aspect of logs is that you can never know for sure if a given entry is a real one.
 
