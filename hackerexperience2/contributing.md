@@ -15,7 +15,7 @@ This framework prevents some common problems with OSS. Mainly, we don't want the
     - "There is nothing useful I can add to these discussions";
     - "I don't understand their commit review process"
     - "So many rules. They won't accept my contributions due to minor errors".
-- **frustrated***:
+- **frustrated**:
     - "I've submitted this patch but I haven't received any responses yet";
     - "My questions don't get answered"
 
