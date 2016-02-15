@@ -46,7 +46,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 ## Create a discussion, report a bug, request a feature:
 
 - Go to Maniphest
-- On the upper right corner, click "Create task". Select the type of task (Feature Request, Ask a question, ...). If you can't find a correct type, select "Custom Task".
+- On the upper right corner, click "Create task". Select the type of task (Feature Request, Report a bug, ...). If you can't find a correct type, select "Custom Task".
 - Type what you want to report/discuss.
 - (optional) Add projects related to the task. Start typing something related and see if Phabricator finds any.
 - Click on "Create task"
@@ -54,7 +54,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 ## Ask something
 
 - If it's something that needs proper discussion, review or approval, create a task (see 1).
-- TODO: ponder?
+- If it's a question
 - If it's something quick, simple or personal, go to Conpherence.
     - There, join the room most suitable for your question (use "General" if none fit).
     - Ask :)
