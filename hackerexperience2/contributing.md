@@ -1,6 +1,4 @@
-# Contributing
-
-## Introduction
+# Introduction
 
 As a whole, we seek *universal contribution*, i.e. a place where anyone can share their opinion regarding a specific part of the project. In order to achieve universal contribution, we need a framework that is
 
@@ -22,7 +20,7 @@ This framework prevents some common problems with OSS. Mainly, we don't want the
 
 We've found [Phabricator](http://phabricator.org) to be the best OSS tool that could allow us meet these requirements. However, Phabricator's interface and usability might take some time to get used to.
 
-## Getting started 
+# Getting started 
 
 - Visit our [development center](https://dev.hackerexperience.com) and create an account (or log in with any social network). Meet Phabricator!
 
@@ -43,17 +41,17 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 - Now we will guide you according to how you can/want to help.
 
 
-## I want to...
+# I want to...
 
-### Create a discussion, report a bug, request a feature:
+## Create a discussion, report a bug, request a feature:
 
 - Go to Maniphest
-- On the upper right corner, click "Create task". Select the type of task (Feature Request, Ask, .. TODO)
+- On the upper right corner, click "Create task". Select the type of task (Feature Request, Ask a question, ...). If you can't find a correct type, select "Custom Task".
 - Type what you want to report/discuss.
-- (optional) Add projects related to the task
+- (optional) Add projects related to the task. Start typing something related and see if Phabricator finds any.
 - Click on "Create task"
 
-### Ask something
+## Ask something
 
 - If it's something that needs proper discussion, review or approval, create a task (see 1).
 - TODO: ponder?
@@ -61,28 +59,28 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
     - There, join the room most suitable for your question (use "General" if none fit).
     - Ask :)
 
-### Clone the repository
+## Clone the repository
 
 - a
 - b
 - c
 
-### Submit a change
+## Submit a change
 
 - First, make sure there is a task related to your change. If not, create one (see 1), describing your changes and why you did them.
 
-### Create a public project
+## Create a public project
 
 - Please create a task (see 1) asking about the project, its name and purpose. If approved, we will create the project and give you moderator access to the project.
 
-### I don't know
+## I don't know
 - See below.
 
-## How can I help the project?
+# How can I help the project?
 
 In many ways, even if you are not a developer. Let's go:
 
-### Programmers
+## Programmers
 
 - Fix reported bugs (See Tasks with project Bugs).
 - Fix TODOs (See Tasks with project TODO)
@@ -90,27 +88,27 @@ In many ways, even if you are not a developer. Let's go:
 - Others (See pynosso, Helix, Pheeb, Curupira, core)
 - Related projects:
 
-### System administrators
+## System administrators
 
 - Join discussions on tasks about Linux, Docker and many more. Weigh in!
 
-### Network administrators
+## Network administrators
 
-### Security Engineers
+## Security Engineers
 
 - Help us on tasks tagged with Security.
 - Review some critical packages (TODO: link, project).
 
-### Game Designers
+## Game Designers
 
 - Create the game mechanics with us! See discussions under GameDesign and kindly share your opinion.
 - Add feature requests.
 
-### Translators
+## Translators
 
 - Help us translate the game to your favorite language.
 
-### Others / Non-technical / Everyone / Anyone
+## Others / Non-technical / Everyone / Anyone
 Stuff that doesn't require specific knowledge (so **anyone** can help).
 
 - Translate the game.
