@@ -95,7 +95,6 @@ Cloning a repository is easy. First of all, you need to set up your cloning cred
 
 If you have SSH Keys set up, using the Clone (SSH) option is faster. Otherwise, you should use Clone (HTTP).
 
-
 - Make sure you have already added your cloning credentials for SSH or HTTPS. It's simple!
 - Go to the repository main page. [Diffusion](https://dev.hackerexperience.com/diffusion) lists all repositories.
 - Copy the Clone URL of SSH or HTTPS. If you have both credentials set up, SSH is better.
