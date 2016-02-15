@@ -120,7 +120,7 @@ In many ways, even if you are not a developer. Let's go:
 
 - Fix reported bugs (See Tasks with project Bugs).
 - Fix TODOs (See Tasks with project [TODO](https://dev.hackerexperience.com/tag/todo/))
-- Develop new features (See project Feature-Backlog)
+- Develop new features (See project [Features-Backlog](https://dev.hackerexperience.com/tag/features-backlog/))
 - Others (See pynosso, Helix, Pheeb, Curupira, core)
 - Follow/discuss/fix tasks of your preferred languages/applications [(see 3)]().
 
