@@ -137,7 +137,7 @@ In many ways, even if you are not a developer. Let's go:
 
 ## Game Designers
 
-- Create the game mechanics with us! See discussions under GameDesign and kindly share your opinion.
+- Create the game mechanics with us! See discussions under Game Design and kindly share your opinion.
 - Add feature requests.
 
 ## Translators
