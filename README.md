@@ -1,8 +1,8 @@
 # HE2 - Game Design and Specifications
 
-The purpose of this book is to maintain a clear documentation of Hacker Experience 2 specifications.
+The purpose of this document is to maintain a clear and updated set of Hacker Experience 2 specifications.
 
-This book should be the starting point for any request to modify or insert an existing feature, character, asset or game mechanic. 
+This document should be the starting point for any request to modify or insert an existing feature, character, asset or game mechanic. 
 
 Keep in mind that this is not the place to discuss implementation details. If a feature is deemed to be impracticable for any technical reason, an issue should be opened to discuss the problem in depth.
 
