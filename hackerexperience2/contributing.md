@@ -44,7 +44,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 
 # I want to...
 
-## Ask something
+## 1 - Ask something
 
 Usually, you'll want to ask questions on [Ponder](https://dev.hackerexperience.com/ponder/), a Q&A phabricator application pretty much like StackOverflow or Quora. In some rare cases, however, a question needs proper discussion or review, so creating a task is the way to go. Below is a simple procedure to follow.
 
@@ -59,7 +59,7 @@ Usually, you'll want to ask questions on [Ponder](https://dev.hackerexperience.c
     - (optional) Add projects related to the question. Start typing something related and see if Phabricator finds anything.
     - Click "Send" & wait for your answer.
 
-## Create a task, discussion, report a bug or request a feature:
+## 2 - Create a task, discussion, report a bug or request a feature:
 
 First, ask yourself: is what your are going to ask/report something that needs discussion, review and approval? If it is a simple or straightforward question, see [Ask Something]() above.
 
@@ -74,7 +74,7 @@ Usually, bug reporting and requesting/suggesting a feature requires proper discu
     - You can ignore any other fields.
     - Click on *Create New task* & wait for your answer.
 
-## Clone a repository
+## 3 - Clone a repository
 
 Cloning a repository is easy. First of all, you need to set up your cloning credentials. It's very straightforward.
 
@@ -86,11 +86,12 @@ If you have SSH Keys set up, using the Clone (SSH) option is faster. Otherwise, 
 - Copy the Clone URL of SSH or HTTPS. If you have both credentials set up, SSH is better.
 - On your terminal, type `git clone <url>` and that's it!
 
-## Submit a change
+## 4 - Submit a change
 
-- First, make sure there is a task related to your change. If not, create one (see 2 - ), describing your changes and why you did them.
+- First, make sure there is a task related to your change. If not, create one (see 2), describing your changes and why you did them.
+- TODO: requires arc
 
-## Create a public project
+## 5 - Create a public project
 
 - Please create a task (see 1) asking about the project, its name and purpose. If approved, we will create the project and give you moderator access to the project.
 
@@ -107,7 +108,11 @@ In many ways, even if you are not a developer. Let's go:
 - Fix TODOs (See Tasks with project TODO)
 - Develop new features (See project Feature-Backlog)
 - Others (See pynosso, Helix, Pheeb, Curupira, core)
-- Related projects:
+- Follow/discuss/fix tasks of your preferred languages.
+    - Go to [Projects](https://dev.hackerexperience.com/project/query/active/)
+    - See which ones interest you.
+    - Subscribe to them to receive in-phabricator updates.
+    - See open tasks or workboards for tasks in need of help.
 
 ## System administrators
 
