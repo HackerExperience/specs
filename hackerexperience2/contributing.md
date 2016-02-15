@@ -20,7 +20,7 @@ This framework prevents some common problems with OSS. Mainly, we don't want the
     - "My questions don't get answered"
 
 
-We found [Phabricator](http://phabricator.org) to be the best OSS tool that could allow us meet these requirements. However, Phabricator's interface and usability might take some time to get used to.
+We've found [Phabricator](http://phabricator.org) to be the best OSS tool that could allow us meet these requirements. However, Phabricator's interface and usability might take some time to get used to.
 
 ## Getting started 
 
@@ -34,9 +34,9 @@ We found [Phabricator](http://phabricator.org) to be the best OSS tool that coul
     - Phabricator is an all-in-one (AIO) place to develop, discuss and review HE2. All you need is there.
     - Phabricator is made of many different applications, each with its own purpose. Some of them are:
         - **Maniphest**: the place where you can create a **task**, or bug report, to be analysed and discussed.
-        - **CReview** is the code review utility, where developers will discuss and accept/deny changes to HE2 code.
-        - **Repository**, where all repositories related to, or owned by HE2 are. You can browse their code there.
-        - **Conpherence** is a chat utility, where you can join private or public groups and talk about anything. Keep in mind that Conpherence is not the place for important discussions, they belong to Maniphest.
+        - **Differential** is the code review utility, where developers will discuss and accept/deny changes to HE2 code.
+        - **Diffusion**, where all repositories related to, or owned by HE2 are. You can browse their code there.
+        - **Conpherence** is a chat utility, where you can join private or public groups and talk about anything. Keep in mind that Conpherence is not the place for important discussions, they belong to Maniphest. It's a nice place to introduce yourself and get help from other contributors.
         - **Projects** allow people to be grouped by interests or content. It works like tags. A question about game-design will have belong to the "Game Design" tag (and any other, if relevant). Then, you can find all tasks related to "Game Design".
 
 
