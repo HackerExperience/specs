@@ -65,9 +65,6 @@ First, ask yourself: is what your are going to ask/report something that needs d
 
 Usually, bug reporting and requesting/suggesting a feature requires proper discussion, review and approval.
 
-
-In general, you'll want to use [Maniphest](https://dev.hackerexperience.com/maniphest/) to discuss anything related to the game. 
-
 - Go to [Maniphest](https://dev.hackerexperience.com/maniphest/)
 - On the upper right corner, click *Create Task*. Select the type of task (Feature Request, Report a bug, ...). If you can't find a correct type, select [Custom Task](https://dev.hackerexperience.com/maniphest/task/edit/form/2/).
 - Enter your question.
