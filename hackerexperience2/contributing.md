@@ -76,7 +76,10 @@ Usually, bug reporting and requesting/suggesting a feature requires proper discu
 
 ## Clone a repository
 
-- a
+Cloning a project is easy. First of all, if you have SSH Keys set up, using the Clone (SSH) option is easier. Otherwise, you should use Clone (HTTP).
+
+
+- Go to the repository main page. [Diffusion](https://dev.hackerexperience.com/diffusion) lists all repositories.
 - b
 - c
 
