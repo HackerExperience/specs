@@ -87,7 +87,7 @@ Want to find tasks related to Linux? Or Docker? Or Design/UI? Maybe Elm? No prob
     - See open tasks on workboards for tasks in need of help.
         - If the project does not have a workboard enabled, use the [Task Search](https://dev.hackerexperience.com/maniphest/query/advanced/) and add the project tag.
 
-Non-tech projects include Translation, GameDesign, FeatureRequest, SocialMedia, Marketing, Legal.
+Non-tech projects include [Translation](https://dev.hackerexperience.com/tag/translation/), [Game Design](https://dev.hackerexperience.com/tag/game_design/), [Feature Request](https://dev.hackerexperience.com/tag/feature_request/), [Social Media](https://dev.hackerexperience.com/tag/social_media/), [Marketing](https://dev.hackerexperience.com/tag/marketing/), [Legal](https://dev.hackerexperience.com/tag/legal/).
 
 ## 4 - Clone a repository
 
