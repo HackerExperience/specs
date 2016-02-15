@@ -48,7 +48,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 
 Usually, you'll want to ask questions on [Ponder](https://dev.hackerexperience.com/ponder/), a Q&A phabricator application pretty much like StackOverflow or Quora. In some rare cases, however, a question needs proper discussion or review, so creating a task is the way to go. Below is a simple procedure to follow.
 
-- If it's something that needs proper discussion, review or approval, create a task (see 2).
+- If it's something that needs proper discussion, review or approval, create a task [(see below)]().
 - If it's something personal, go to Conpherence.
     - There, join the room most suitable for your question (use "General" if none fit).
     - Ask :)
@@ -57,7 +57,7 @@ Usually, you'll want to ask questions on [Ponder](https://dev.hackerexperience.c
     - Enter your question on "Question Details".
     - You can ignore "Answer Details". This is usually for self-answered questions.
     - (optional) Add projects related to the question. Start typing something related and see if Phabricator finds anything.
-    - Click "Send" & wait for your answer. You can submit the question link on Conpherence for faster response.
+    - Click "Send" & wait for your answer.
 
 ## Create a discussion, report a bug, request a feature:
 
@@ -72,7 +72,7 @@ Usually, bug reporting and requesting/suggesting a feature requires proper discu
     - On *Description*, enter your report/discussion. Be the most descriptive and detailed you can be.
     - (optional) Add projects related to the task. Start typing something related and see if Phabricator finds anything.
     - You can ignore any other fields.
-    - Click on *Create New task*.
+    - Click on *Create New task* & wait for your answer.
 
 ## Clone a repository
 
