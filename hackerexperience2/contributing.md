@@ -74,7 +74,7 @@ Usually, bug reporting and requesting/suggesting a feature requires proper discu
     - You can ignore any other fields.
     - Click on *Create New task* & wait for your answer.
 
-## 3 - Help with stuff I'm good at (including non-tech)
+## 3 - Help with stuff I'm good at (includes non-tech)
 
 That's great! At Phabricator, we tag all Tasks with corresponding projects, exactly to allow you to find very specific stuff.
 
