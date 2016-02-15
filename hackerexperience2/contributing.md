@@ -51,6 +51,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
     - On *Title*, enter a meaningful and descriptive title.
     - On *Description*, enter your report/discussion. Be the most descriptive and detailed you can be.
     - (optional) Add projects related to the task. Start typing something related and see if Phabricator finds anything.
+    - You can ignore any other fields.
     - Click on "Create task"
 
 ## Ask something
