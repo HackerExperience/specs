@@ -37,7 +37,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
         - **Differential** is the code review utility, where developers will discuss and accept/deny changes to HE2 code.
         - **Diffusion**, where all repositories related to, or owned by HE2 are. You can browse their code there.
         - **Conpherence** is a chat utility, where you can join private or public groups and talk about anything. Keep in mind that Conpherence is not the place for important discussions, they belong to Maniphest. It's a nice place to introduce yourself and get help from other contributors.
-        - **Projects** allow people to be grouped by interests or content. It works like tags. A question about game-design will have belong to the "Game Design" tag (and any other, if relevant). Then, you can find all tasks related to "Game Design".
+        - **Projects** allow people to be grouped by interests or content. It works like tags. A question about game-design will belong to the "Game Design" tag (and any other, if relevant). Then, you can find all tasks related to "Game Design".
 
 
 - Now we will guide you according to how you can/want to help.
