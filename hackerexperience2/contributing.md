@@ -34,7 +34,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
         - **[Maniphest](https://dev.hackerexperience.com/maniphest/)**: the place where you can create a **task**, or bug report, to be analysed and discussed.
         - **[Differential](https://dev.hackerexperience.com/differential/)** is the code review utility, where developers will discuss and accept/deny changes to HE2 code.
         - **[Diffusion](https://dev.hackerexperience.com/diffusion/)**, where all repositories related to, or owned by HE2 are. You can browse their code there.
-        - **[Conpherence](https://dev.hackerexperience.com/conpherence/** is a chat utility, where you can join private or public groups and talk about anything. Keep in mind that Conpherence is not the place for important discussions, they belong to Maniphest. It's a nice place to introduce yourself and get help from other contributors.
+        - **[Conpherence](https://dev.hackerexperience.com/conpherence/)** is a chat utility, where you can join private or public groups and talk about anything. Keep in mind that Conpherence is not the place for important discussions, they belong to Maniphest. It's a nice place to introduce yourself and get help from other contributors.
         - **[Projects](https://dev.hackerexperience.com/project/query/active/)** allow people to be grouped by interests or content. It works like tags. A question about game-design will belong to the "Game Design" tag (and any other, if relevant). Then, you can find all tasks related to "Game Design".
         - **[Ponder](https://dev.hackerexperience.com/ponder/)** is the place to ask questions. It's a Q&A site like StackOverflow or Quora.
 
