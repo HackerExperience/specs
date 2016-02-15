@@ -1,4 +1,4 @@
-# HE2 - Game Design and Specifications
+# Game Design and Specifications
 
 The purpose of this document is to maintain a clear and updated set of Hacker Experience 2 specifications.
 
