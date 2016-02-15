@@ -28,4 +28,4 @@ The spread speed is defined in turns of one hour. The next turn right after the 
 
 Influence also accumulates on the center, creating a notion of z-axis influence.
 
-[TODO: It is actually much more complex than this. Explain better.]
+[TODO: Spread is actually much more complex than this. Explain better.]
