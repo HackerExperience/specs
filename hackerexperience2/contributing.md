@@ -66,7 +66,7 @@ Usually, you'll want to ask questions on Ponder, a Q&A phabricator application p
     - (optional) Add projects related to the question. Start typing something related and see if Phabricator finds anything.
     - Click "Send" & wait for your answer. You can submit the question link on Conpherence for faster response.
 
-## Clone the repository
+## Clone a repository
 
 - a
 - b
