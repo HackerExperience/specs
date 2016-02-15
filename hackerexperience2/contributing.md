@@ -118,7 +118,7 @@ In many ways, even if you are not a developer. Let's go:
 
 ## Programmers
 
-- Fix reported bugs (See Tasks with project Bugs).
+- Fix reported bugs (See Tasks with project [Bugs](https://dev.hackerexperience.com/tag/bugs/)).
 - Fix TODOs (See Tasks with project [TODO](https://dev.hackerexperience.com/tag/todo/))
 - Develop new features (See project [Features-Backlog](https://dev.hackerexperience.com/tag/features-backlog/))
 - Others (See pynosso, Helix, Pheeb, Curupira, core)
