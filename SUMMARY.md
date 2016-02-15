@@ -6,7 +6,6 @@
    * [Principles](hackerexperience2/principles.md)
    * [Objectives](hackerexperience2/objectives.md)
    * [Contributing](hackerexperience2/contributing.md)
-   * [Privacy](hackerexperience2/privacy.md/privacy.md)
 * [Notes](notes.md)
 * [Game Mechanics](game_mechanics/)
    * [Overview](game_mechanics/overview.md)
