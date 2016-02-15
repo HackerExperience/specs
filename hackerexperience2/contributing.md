@@ -48,7 +48,7 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 - Go to Maniphest
 - On the upper right corner, click "Create task". Select the type of task (Feature Request, Report a bug, ...). If you can't find a correct type, select "Custom Task".
 - Type what you want to report/discuss.
-- (optional) Add projects related to the task. Start typing something related and see if Phabricator finds any.
+- (optional) Add projects related to the task. Start typing something related and see if Phabricator finds anything.
 - Click on "Create task"
 
 ## Ask something
@@ -63,6 +63,8 @@ Usually, you'll want to ask questions on Ponder, a Q&A phabricator application p
 - On the upper right corner, click [Ask Question](https://dev.hackerexperience.com/ponder/question/create/).
     - Enter your question on "Question Details".
     - You can ignore "Answer Details". This is usually for self-answered questions.
+    - (optional) Add projects related to the question. Start typing something related and see if Phabricator finds anything.
+    - Click "Send" & wait for your answer. You can submit the question link on Conpherence for faster response.
 
 ## Clone the repository
 
