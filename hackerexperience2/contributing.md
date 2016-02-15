@@ -122,11 +122,7 @@ In many ways, even if you are not a developer. Let's go:
 - Fix TODOs (See Tasks with project TODO)
 - Develop new features (See project Feature-Backlog)
 - Others (See pynosso, Helix, Pheeb, Curupira, core)
-- Follow/discuss/fix tasks of your preferred languages.
-    - Go to [Projects](https://dev.hackerexperience.com/project/query/active/)
-    - See which ones interest you.
-    - Subscribe to them to receive in-phabricator updates.
-    - See open tasks or workboards for tasks in need of help.
+- Follow/discuss/fix tasks of your preferred languages/applications [(see 3)]().
 
 ## System administrators
 
