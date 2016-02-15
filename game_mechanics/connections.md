@@ -40,7 +40,7 @@ FTP connections are identified by port `21`
 
 ## X11
 
-The X11 connection exchanges graphical data between two servers. It allows a client to see the Desktop (Graphical User Interface) from the server, exactly as it is seem by the remote server. This includes open applications[HEPNOTE:note-privacy-x11] and potentially sensitive information.
+The X11 connection exchanges graphical data between two servers. It allows a client to see the Desktop (Graphical User Interface) from the server, exactly as it is seem by the remote server. This includes open applications<sup>[HEPNOTE:note-privacy-x11]</sup> and potentially sensitive information.
 
 A X11 connection starts when the client is using a Desktop/Web interface and is connected through an SSH connection. It is terminated at the end of the SSH session. 
 
