@@ -132,7 +132,7 @@ In many ways, even if you are not a developer. Let's go:
 
 ## Security Engineers
 
-- Help us on tasks tagged with Security.
+- Help us on tasks tagged with [Security](https://dev.hackerexperience.com/tag/security/).
 - Review some critical packages (TODO: link, project).
 
 ## Game Designers
