@@ -76,7 +76,9 @@ Usually, bug reporting and requesting/suggesting a feature requires proper discu
 
 ## Clone a repository
 
-Cloning a repository is easy. First of all, if you have SSH Keys set up, using the Clone (SSH) option is easier. Otherwise, you should use Clone (HTTP).
+Cloning a repository is easy. First of all, you need to set up your cloning credentials. It's very straightforward.
+
+If you have SSH Keys set up, using the Clone (SSH) option is faster. Otherwise, you should use Clone (HTTP).
 
 
 - Make sure you have already added your cloning credentials for SSH or HTTPS. It's simple!
