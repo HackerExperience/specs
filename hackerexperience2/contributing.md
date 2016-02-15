@@ -70,11 +70,10 @@ We found [Phabricator](http://phabricator.org) to be the best OSS tool that coul
 ### Submit a change
 
 - First, make sure there is a task related to your change. If not, create one (see 1), describing your changes and why you did them.
-- Cry
 
 ### Create a public project
 
-- Please create a task (see 1) asking about the project, its name and purpose. If approved, we will create the project and give you edit access 
+- Please create a task (see 1) asking about the project, its name and purpose. If approved, we will create the project and give you moderator access to the project.
 
 ### I don't know
 - See below.
