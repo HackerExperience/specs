@@ -162,3 +162,4 @@ Stuff that doesn't require specific knowledge (so **anyone** can help).
 - Fix grammatical errors and typos.
 - Spread the word.
 - Bring more contributors.
+- Keep being awesome.
