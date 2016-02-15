@@ -74,7 +74,7 @@ Usually, bug reporting and requesting/suggesting a feature requires proper discu
     - You can ignore any other fields.
     - Click on *Create New task* & wait for your answer.
 
-## 3 - Help with stuff I'm good at
+## 3 - Help with stuff I'm good at (including non-tech)
 
 That's great! At Phabricator, we tag all Tasks with corresponding projects, exactly to allow you to find very specific stuff.
 
@@ -86,6 +86,7 @@ Want to find tasks related to Linux? Or Docker? Or Design/UI? Maybe Elm? No prob
     - See open tasks on workboards for tasks in need of help.
         - If the project does not have a workboard enabled, use the [Task Search](https://dev.hackerexperience.com/maniphest/query/advanced/) and add the project tag.
 
+Non-tech projects include Translation, GameDesign, FeatureRequest, SocialMedia, Marketing, Legal.
 
 ## 4 - Clone a repository
 
