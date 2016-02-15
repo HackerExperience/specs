@@ -126,7 +126,7 @@ In many ways, even if you are not a developer. Let's go:
 
 ## System administrators
 
-- Join discussions on tasks about Linux, Docker and many more. Weigh in!
+- Join discussions on tasks about [Infrastructure](https://dev.hackerexperience.com/tag/infra/), [Linux](https://dev.hackerexperience.com/tag/linux/), [Docker](https://dev.hackerexperience.com/tag/docker/) and many more. Weigh in!
 
 ## Network administrators
 
@@ -137,7 +137,7 @@ In many ways, even if you are not a developer. Let's go:
 
 ## Game Designers
 
-- Create the game mechanics with us! See discussions under Game Design and kindly share your opinion.
+- Create the game mechanics with us! See discussions under [Game Design](https://dev.hackerexperience.com/tag/game_design/) and kindly share your opinion.
 - Add feature requests.
 
 ## Translators
