@@ -144,6 +144,12 @@ In many ways, even if you are not a developer. Let's go:
 
 - Help us translate the game to your favorite language.
 
+## English Speakers
+
+Our in-house team is based in Brazil and we are not native English speakers. This means that many of our texts, documentations, articles, tasks have grammar errors, typos, misspellings.
+
+
+
 ## Others / Non-technical / Everyone / Anyone
 Stuff that doesn't require specific knowledge (so **anyone** can help).
 
