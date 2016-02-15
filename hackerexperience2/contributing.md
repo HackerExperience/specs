@@ -61,7 +61,7 @@ Usually, you'll want to ask questions on [Ponder](https://dev.hackerexperience.c
 
 ## 2 - Create a task, discussion, report a bug or request a feature:
 
-First, ask yourself: is what your are going to ask/report something that needs discussion, review and approval? If it is a simple or straightforward question, see [Ask Something]() above.
+First, ask yourself: is what your are going to ask/report something that needs discussion, review and approval? If it is a simple or straightforward question, see [Ask Something]() above. Don't worry if you are unsure.
 
 Usually, bug reporting and requesting/suggesting a feature requires proper discussion, review and approval.
 
