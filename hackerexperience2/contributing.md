@@ -119,7 +119,7 @@ In many ways, even if you are not a developer. Let's go:
 ## Programmers
 
 - Fix reported bugs (See Tasks with project Bugs).
-- Fix TODOs (See Tasks with project TODO)
+- Fix TODOs (See Tasks with project [TODO](https://dev.hackerexperience.com/tag/todo/))
 - Develop new features (See project Feature-Backlog)
 - Others (See pynosso, Helix, Pheeb, Curupira, core)
 - Follow/discuss/fix tasks of your preferred languages/applications [(see 3)]().
@@ -149,7 +149,7 @@ In many ways, even if you are not a developer. Let's go:
 Our in-house team is based in Brazil and we are not native English speakers. This means that many of our texts, documents, articles, tasks have grammar errors and typos, or are hard to understand.
 
 - Through our Documentation website, we have *Improve this page* on each document.
-- Check the [Grammatical Errors](https://dev.hackerexperience.com/project/view/68/) project.
+- Check the [Grammatical Errors](https://dev.hackerexperience.com/tag/grammatical_errors/) project.
 
 ## Others / Non-technical / Everyone / Anyone
 Stuff that doesn't require specific knowledge (so **anyone** can help).
