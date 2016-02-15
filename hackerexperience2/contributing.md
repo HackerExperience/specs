@@ -59,6 +59,10 @@ Usually, you'll want to ask questions on Ponder, a Q&A phabricator application p
 - If it's something personal, go to Conpherence.
     - There, join the room most suitable for your question (use "General" if none fit).
     - Ask :)
+- Go to [Ponder](https://dev.hackerexperience.com/ponder/).
+- On the upper right corner, click [Ask Question](https://dev.hackerexperience.com/ponder/question/create/).
+    - Enter your question on "Question Details".
+    - You can ignore "Answer Details". This is usually for self-answered questions.
 
 ## Clone the repository
 
