@@ -151,7 +151,7 @@ Our in-house team is based in Brazil and we are not native English speakers. Thi
 - Through our Documentation website, we have *Improve this page* on each document.
   - Help us make those documents easier to understand.
   - Fix grammatical errors or misspellings.
-- Check the [Grammatical Errors](https://dev.hackerexperience.com/tag/grammatical_errors/) project.
+- Subscribe and follow the [Grammatical Errors](https://dev.hackerexperience.com/tag/grammatical_errors/) project.
 
 ## Others / Non-technical / Everyone / Anyone
 Stuff that doesn't require specific knowledge (so **anyone** can help).
