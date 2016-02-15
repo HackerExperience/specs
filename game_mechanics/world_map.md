@@ -24,6 +24,8 @@ Any remote action taken by the hacker is translated into influence. The attacker
 
 The spread of influence is analogous to sand falling to the floor and forming a pile. When an action that deserves influence is completed, a relative amount of influence will "fall" into the origin and target of the action. As it falls, influence is spread to all sides, being greater on the center, and slowly fading away as it goes further.
 
-The spread speed is done in turns of 
+The spread speed is defined in turns of one hour. The next turn right after the attack is turn 1, where the grid square of the attack ("center") receives 100% of the relative influence. On the next turn, the neighbors squares receive a smaller percent, and so on.
 
 Influence also accumulates on the center, creating a notion of z-axis influence.
+
+[TODO: It is actually much more complex than this. Explain better.]
