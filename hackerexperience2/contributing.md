@@ -53,9 +53,10 @@ We've found [Phabricator](http://phabricator.org) to be the best OSS tool that c
 
 ## Ask something
 
+Usually, you'll want to ask questions on Ponder, a Q&A phabricator application pretty much like StackOverflow or Quora. In some rare cases, however, a question needs proper discussion or review, so creating a task is the way to go. Below is a simple procedure to follow.
+
 - If it's something that needs proper discussion, review or approval, create a task (see 1).
-- If it's a question
-- If it's something quick, simple or personal, go to Conpherence.
+- If it's something personal, go to Conpherence.
     - There, join the room most suitable for your question (use "General" if none fit).
     - Ask :)
 
