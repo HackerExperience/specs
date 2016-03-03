@@ -15,5 +15,6 @@
    * [World Map](game_mechanics/world_map.md)
    * [Software](game_mechanics/software.md)
    * [Missions](game_mechanics/missions.md)
+   * [NPCs](game_mechanics/npcs.md)
 * [Notes](notes.md)
 
