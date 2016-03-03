@@ -8,6 +8,22 @@ Below is a detailed description of these NPCs.
 
 ## Services
 
+Some NPCs might offer *services* to the player, whether he requested them or not. Here are some of them:
+
+### Banks
+
+Banks are responsible for securing customers data and money. You can access the Bank NPC and register an account, transfer money to another bank or view your balance.
+
+### Missions
+
+Missions are automatically generated and presented according to each user preferences and gameplay.
+
+[See the Missions page for more information regarding missions.]()
+
+### Police
+
+You do bad things and the Police will chase you down. Every breath you take might increase your Heat.
+
 ## Points of Interest
 
 A Point of Interest (POI) is a specific location on the World Map. It usually points to a virtual building that simulates a similar real-life building.
