@@ -26,4 +26,4 @@ An interesting aspect of logs is that you can never know for sure if a given ent
 
 A single log entry can have several modifications, one after another, which will stack up.
 
-Since Log Recover relies on an Iterative Process, every successful recovery pops a modification from the log stack. However, this is an endless process that can take very long to pop the next entry, so you can't be sure wheter you are seeing the real log.
+Since Log Recover relies on an Iterative Process, every successful recovery pops a modification from the log stack. However, this is an endless process that can take very long to pop the next entry, so you can't be sure whether you are seeing the real log.
