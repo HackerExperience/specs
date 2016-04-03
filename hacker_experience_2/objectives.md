@@ -28,7 +28,7 @@ Even though HE2 is a simulation (see above), real world concepts are applied to 
 
 By actually eavesdropping plain-text (virtual) data sent over the wire, the player starts to realize that this is quite common in real life. Our ultimate goal is to teach him to always use HTTPS, VPN and encryption.
 
-Education can be obtained outside the game as well. We have invited everyone to actually build HE2 with us. This is a great way for students and hobbyists to
+Education can be obtained outside the game as well. We have invited everyone to actually build HE2 with us. This is a great way for students and hobbyists to learn computer programming and software engineering.
 
 # Ubiquity
 
