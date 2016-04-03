@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Hacker Experience 2](hacker_experience_2/)
+* [Hacker Experience 2](hacker_experience_2)
    * [History](hacker_experience_2/history.md)
    * [Principles](hacker_experience_2/principles.md)
    * [Objectives](hacker_experience_2/objectives.md)
