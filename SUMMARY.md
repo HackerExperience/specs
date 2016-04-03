@@ -7,7 +7,7 @@
    * [Objectives](hacker_experience_2/objectives.md)
    * [Contributing](hacker_experience_2/contributing.md)
    * [Privacy](hacker_experience_2/privacy.md)
-* [Game Mechanics](game_mechanics/)
+* [Game Mechanics](game_mechanics)
    * [Overview](game_mechanics/overview.md)
    * [Processes](game_mechanics/processes.md)
    * [Logs](game_mechanics/logs.md)
