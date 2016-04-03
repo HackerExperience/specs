@@ -24,6 +24,10 @@ This poses a design challenge for us: how to create a game that is deep enough f
 
 # Educate
 
+Even though HE2 is a simulation (see above), real world concepts are applied to the game. After some interaction, the non-technical player will be able to grasp general concepts about computers, data and privacy. We take special pride on the latter: the layman often does not know how applications handle his privacy.
+
+By actually eavesdropping plain-text data sent over the game, 
+
 # Ubiquity
 
 HE2 must have a single requirement: an Internet connection. With that in mind, it's easy to imagine a game that can be run *anywhere*, including: 
