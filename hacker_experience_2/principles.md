@@ -14,7 +14,7 @@ Our main objective is to create a software *for* our users, so Hacker Experience
 
 # Transparency
 
-We must be the most transparent we can with our community.
+As a general rule of thumb, we must be the most transparent we can with our community.
 
 We want to **share** everything, including:
 

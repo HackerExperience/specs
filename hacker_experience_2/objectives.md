@@ -4,8 +4,6 @@ Guided by the principles outlined above, the game Hacker Experience 2 aim to ach
 
 # Hackability
 
-Hacker Experience 2 simulates a world where everything is hackable. Servers, phones, connections, drones and anything that might emerge. In addition to that, the player can interact with elements of the world like entities, buildings and network data flowing through servers.
-
 # Simulation
 
 Above all else, HE2 is a hacking *simulation*. Thus, we aim to simulate reality as accurate as possible, while keeping the game enjoyable.
@@ -23,12 +21,6 @@ The other end of the gamer spectrum, made by an addicted user who plays for hour
 This poses a design challenge for us: how to create a game that is deep enough for the core gamer yet simple enough for the casual gamer.
 
 # Educate
-
-Even though HE2 is a simulation (see above), real world concepts are applied to the game. After some interaction, the non-technical player will be able to grasp general concepts about computers, data and privacy. We take special pride on the latter: the layman often does not know how applications handle his privacy.
-
-By actually eavesdropping plain-text (virtual) data sent over the wire, the player starts to realize that this is quite common in real life. Our ultimate goal is to teach him to always use HTTPS, VPN and encryption.
-
-Education can be obtained outside the game as well. We have invited everyone to actually build HE2 with us. This is a great way for students and hobbyists to learn computer programming and software engineering.
 
 # Ubiquity
 
